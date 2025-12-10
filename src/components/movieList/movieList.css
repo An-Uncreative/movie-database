@@ -2,6 +2,20 @@
   padding: 20px 30px;
 }
 
+.movie_list_title {
+  font-size: 2rem;
+  color: #61dafb;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.loading_text {
+  text-align: center;
+  font-size: 1.2rem;
+  color: #999;
+  padding: 40px;
+}
+
 .movie_grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));

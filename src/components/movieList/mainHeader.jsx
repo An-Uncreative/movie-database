@@ -1,11 +1,17 @@
 import "./mainHeader.css";
-import fire from "../../assets/fire.png";
 
-const MainHeader = ({ handleRatings, rating, handleSort, sort }) => {
+const MainHeader = ({
+  handleRatings,
+  rating,
+  handleSort,
+  sort,
+  title,
+  emoji,
+}) => {
   return (
     <header className="movie_list_header">
       <h2>
-        Popular <img src={fire} alt="" />
+        {title} <img src={emoji} alt="" />
       </h2>
 
       <nav className="movie_filter_conttainer">
