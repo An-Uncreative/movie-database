@@ -5,7 +5,7 @@ import "./navBar.css";
 export default function NavBar() {
   return (
     <header className="nav">
-          <h1>MovieManiac</h1>
+          <h1>WhatToWatch</h1>
           <nav className="nav-links">
               <a href="">Popular <img src={fire} alt="Fire emoji" className="navbar_emoji" /></a>
               <a href="">Top Rated <img src={star} alt="Star emoji" className="navbar_emoji" /></a>

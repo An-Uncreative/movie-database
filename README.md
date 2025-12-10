@@ -2,7 +2,7 @@
 
 ## 📽️ Project Overview
 
-A modern movie database web application that fetches data from The Movie Database (TMDB) API. Users can browse popular movies, filter by rating, and sort by various criteria.
+A movie database web application that helps me decide what to watch by fetching data from The Movie Database (TMDB) API. Users can browse popular movies, filter by rating, and sort by various criteria.
 
 ## ✨ Features
 
@@ -110,7 +110,7 @@ The project uses environment variables to keep API keys secure:
 
 ## 👤 Author
 
-Created as part of fullstack development bootcamp learning path
+Created as a fun fullstack development project to enhance my learning path
 
 ## 📄 License
 
