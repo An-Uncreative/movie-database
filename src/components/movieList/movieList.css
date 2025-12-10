@@ -1,0 +1,9 @@
+.movie_list_section {
+  padding: 20px 30px;
+}
+
+.movie_grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 20px;
+}
