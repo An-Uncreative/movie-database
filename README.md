@@ -1,8 +1,9 @@
-# Week 8: Movie Database Application
+# Movie Database Application
 
 ## 📽️ Project Overview
 
 A modern movie database web application that fetches data from The Movie Database (TMDB) API. Users can browse popular movies, explore top-rated films, check out upcoming releases, filter by rating, and sort by various criteria.
+check it out: [Demo](https://movie-database-three-ecru.vercel.app/)
 
 ## ✨ Features
 
